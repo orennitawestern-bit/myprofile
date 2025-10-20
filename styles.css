@@ -11,8 +11,8 @@ body{
   font-family: cursive;
   background-image: linear-gradient(to right, rgb(58, 146, 253), rgb(207, 207, 207));
   background-repeat: no-repeat;
-  width: fit-content;
   height: 880px;
+  zoom: 0.75;
 }
 nav {
   background-color:rgb(32, 32, 32);
